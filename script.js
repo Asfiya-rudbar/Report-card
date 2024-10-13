@@ -217,3 +217,26 @@ if (student) {
         <p>No student found with the provided name and ID.</p>
     `;
 }
+
+
+// Even generator
+// 
+
+// function generator(){
+//     let inputValue = document.getElementById('inputValue').value;
+//     let i = 0;
+//     let value = '';
+//     while (i <= inputValue) {
+//         if(i % 2 === 0){
+//             value += `${i} `;
+//         }
+//         i++;
+//     }
+//     document.getElementById('result').innerHTML = value;
+// }
+// let i = 0;
+// do{
+//     console.log("Asfiya Rudbar");
+//     i++;
+// }
+// while (i >= 9);
